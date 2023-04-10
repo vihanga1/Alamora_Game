@@ -1,0 +1,19 @@
+------------Instructions------------
+* There are 3 types of people
+* COLD, NORMAL, HOT
+* Cold peole are not harmful. they are friendly
+* Normal people are harmful. But much better than Hot
+* As I said Hot people the most harmful people in this village
+* Your task is clear this village by taking out Normal and Hot people
+=======HOW TO IDENTIFY PEOPLE=======
+COLD people's names always starting with "S, D K, L"
+NORMAL People's name always starting with "R, A, J"
+Every other letter can be the first letter of HOT people's name
+=======HOW TO ELIMINATE ENEMIES=======
+When you see COLD man you can normally say 'Hi' by pressing "h" key
+When you see a NORMAL man you need to eliminate them by once pressing "f" key!
+When you see a HOT man you can eliminate them by pressing "ff" key! (pressing f key twice)
+=======WHAT HAPPENED IF I DIDN'T SHOOT=======
+Then you'll be dead and you need to start again
+======= RULES =======
+You should press relavent key before 3 seconds.
